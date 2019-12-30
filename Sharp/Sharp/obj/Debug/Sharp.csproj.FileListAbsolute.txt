@@ -1,0 +1,10 @@
+C:\Users\Istlan\source\repos\Sharp\Sharp\bin\Debug\Sharp.exe.config
+C:\Users\Istlan\source\repos\Sharp\Sharp\bin\Debug\Sharp.exe
+C:\Users\Istlan\source\repos\Sharp\Sharp\bin\Debug\Sharp.pdb
+C:\Users\Istlan\source\repos\Sharp\Sharp\obj\Debug\Sharp.csprojAssemblyReference.cache
+C:\Users\Istlan\source\repos\Sharp\Sharp\obj\Debug\Sharp.Properties.Resources.resources
+C:\Users\Istlan\source\repos\Sharp\Sharp\obj\Debug\Sharp.csproj.GenerateResource.cache
+C:\Users\Istlan\source\repos\Sharp\Sharp\obj\Debug\Sharp.exe
+C:\Users\Istlan\source\repos\Sharp\Sharp\obj\Debug\Sharp.pdb
+C:\Users\Istlan\source\repos\Sharp\Sharp\obj\Debug\Sharp.csproj.ResolveComReference.cache
+C:\Users\Istlan\source\repos\Sharp\Sharp\obj\Debug\Sharp.Laba.resources
